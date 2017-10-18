@@ -7,7 +7,7 @@
    "html":"<h2>Emprendimiento</h2>",
    "children": [
     {
-     "name": "Social",
+     "name": "Emprendimiento Social",
 	 "html":"<h2>Social</h2>",
      "children": [
       {"name": "Asociación Kantaya", "size": 3938, "html":"<h2>Asociación Kantaya</h2><p>Kantaya, iluminar en Aymara, es una asociación sin fines de lucro que desde hace más de 10 años busca cambiar mentalidades a través de educación de calidad, fomentando la creatividad y los valores en niños en situación vulnerable. Actualmente 300 niños, entre 5 y 15 años de edad, asisten de lunes a sábado en las tardes (después del colegio) a los tres centros de alto impacto educativo ubicados en los asentamientos humanos Mi Perú y Pachacutec en Ventanilla, Callao.</p><h2>Contacto</h2><p>Fabiola Portocarrero / Fundadora Asociación Kantaya , Yessica Flores / Fundadora Asociación Kantaya</p><p>(01) 2610126</p><p>donacion@katayaperu.com</p>"},
@@ -17,7 +17,7 @@
 	  {"name": "Llama Pack", "size": 3431, "html":"<h2>Llama Pack</h2><p>El proyecto busca la inclusión social de comunidades alto-Andinas en extrema pobreza a los beneficios económicos que aporta el turismo, incorporando un elemento eco amigable que tienen pero no utilizan:  sus llamas. Desarrolla con las comunidades el servicio de Llama Trek demostrando que se puede trabajar con llamas en turismo y generar fuentes alternativas de ingreso familiar activando economías locales.</p><h2>Contacto</h2><p>Alejandra Arias Stella / Directora Fundadora</p><p>(01) 998003114</p><p>info@llamapackproject.com</p>"},
 	  {"name": "Matchcota", "size": 3431, "html":"<h2>Matchcota</h2><p>Plataforma web para facilitación de adopciones de mascotas abandonadas en el país.</p><h2>Contacto</h2><p>Pamela Navarrete (Coordinadora General),  Melina Suarez, (Coordinadora Marketing),  Víctor Rodríguez (Coordinador Voluntariado),  Santiago León (Coordinador Finanzas y Legalidad);  Carla Orrego (Coordinadora Adopciones) y Kevin Muñante (Coordinador PreAdopción).</p><p>(01) 991754686</p><p>matchcotaorg.peru@gmail.com</p>"},
 	  {"name": "Nutrishake", "size": 3431, "html":"<h2>Nutrishake</h2><p>Es una empresa social que brinda productos naturales y nutritivos a base de cereales andinos, y al mismo tiempo permite que las personas participen de la nutrición social en la que ayudan a mejorar la alimentación de los niños con desnutrición.</p><h2>Contacto</h2><p>Daniel Nuñez / Gerente General , Gina Gonzales / Gerente de Producción,  Gian Carlos Zegarra / Gerente de Finanzas,  Carlos Noceda / Gerente de Negocios</p><p>(01) 959307284</p><p>nutrishakeandino@gmail.com </p>"},
-	  {"name": "Persevera Inclusión", "size": 3431, "html":"<h2>Es una asociación sin fines de lucro conformado por un grupo de madres con hijos en edad escolar que luchan por su derecho a la inclusión educativa efectiva, que les permita el desarrollo máximo de su autonomía, independencia e inclusión social. Tiene como objetivos promover la educación inclusiva, en el sistema educativo asegurando un tratamiento no discriminatorio. Sensibilizar a la población y erradicar los mitos del autismo. Desempeñar un papel integrador, que permita reunir a todas las asociaciones que traten el tema del autismo a fin de organizar eventos conjuntos poniendo a disposición material práctico que permita ayudar en la educación inclusiva.</h2><p>Contenido</p><h2>Contacto</h2><p>Rosario Rojas Rodriguez / Directora</p><p>(01) 942355243</p><p>rrojas@perseverainclusion.org.pe</p>"},
+	  {"name": "Persevera Inclusión", "size": 3431, "html":"<h2>Persevera Inclusión</h2><p>Es una asociación sin fines de lucro conformado por un grupo de madres con hijos en edad escolar que luchan por su derecho a la inclusión educativa efectiva, que les permita el desarrollo máximo de su autonomía, independencia e inclusión social. Tiene como objetivos promover la educación inclusiva, en el sistema educativo asegurando un tratamiento no discriminatorio. Sensibilizar a la población y erradicar los mitos del autismo. Desempeñar un papel integrador, que permita reunir a todas las asociaciones que traten el tema del autismo a fin de organizar eventos conjuntos poniendo a disposición material práctico que permita ayudar en la educación inclusiva.</p><h2>Contacto</h2><p>Rosario Rojas Rodriguez / Directora</p><p>(01) 942355243</p><p>rrojas@perseverainclusion.org.pe</p>"},
 	  {"name": "PowerMundo Perú", "size": 3431, "html":"<h2>PowerMundo Perú</h2><p>PowerMundo es una empresa social que apoya a la gente a mejorar su vida y conservar la naturaleza. Conecta a las personas que no tienen acceso a la red eléctrica con productos sostenibles para satisfacer sus necesidades de energía y romper el ciclo de pobreza. Trabaja con socios en todo el mundo para traer energía solar y cocinas mejoradas al Perú.</p><h2>Contacto</h2><p>Vela Navarro / Representante</p><p>(01) 2496746 - (01) 945377802</p><p>info@powermundo.com</p>"} 
      ]
     },
@@ -25,8 +25,6 @@
      "name": "Startups",
 	 "html":"<h2>Startups</h2>",
      "children": [
-
-
       {"name": "Accesol", "size": 3534,"html":"<h2>Accesol</h2><p>Es una startup que se encuentra en el programa de aceleración de UTEC Ventures. Su primer producto es el Tostador Intitec, un tostador para diferentes granos que es ecológico, usa energía solar; económico, es de bajo costo y mantenimiento simple; y social, porque abre la posibilidad de que sean los mismos agricultores quienes tuesten sus granos, permitiéndoles avanzar más en la cadena comercial.</p><h2>Contacto</h2><p>Juan Pablo Perez</p><p>989081465</p><p>jp.00perez@gmail.com</p>"},
       {"name": "Agrobiotec", "size": 5731,"html":"<h2>PowerMundo</h2><p>Proyecto Empresarial de Productos y Servicios Agrobiológicos Innovadores. Agrobiotec Allpa busca ofrecer una alternativa para la nutrición, sanidad y desarrollo de los cultivos con valor agrícola y está enfocada en dos productos: Biofertilizantes a base de micorrizas y semillas nativas peletizadas con microorganismos bioactivos.</p><h2>Contacto</h2><p>Wendy Pérez / Socia fundadora</p><p>980665278</p><p>agrobiotecallpa@gmail.com</p>"},
       {"name": "Akdemia", "size": 7840,"html":"<h2>Akdemia</h2><p>Es una plataforma tecnológica desarrollada específicamente para  optimizar el manejo de procesos  administrativos, gerenciales y de  comunicación de una o varias escuelas.Ofrece el servicio web y aplicación móvil  (app), dedicados a potenciar los procesos  de comunicativos y académicos en la  institución.</p><h2>Contacto</h2><p>Juan Andrés Lagrange / CEO, Valentina Delfino / COO</p><p>(+511) 999100733</p><p>jalagrange@akdemia.com</p>"},
@@ -35,7 +33,7 @@
       {"name": "BioFuturo", "size": 5731,"html":"<h2>BioFuturo</h2><p>servicioalcliente@badega.com</p><h2>Contacto</h2><p>Cesar Loo, Científico Investigador / CEO de BioFab Inc</p><p>996838533</p><p>laboratorio@celulasmadre.com.pe</p>"},
       {"name": "Crehana", "size": 3416,"html":"<h2>Crehana</h2><p>Crehana es una comunidad global educativa para creativos donde las  personas aprenden habilidades prácticas  en cursos cortos preparados por expertos.</p><h2>Contacto</h2><p>Diego Olcese / CEO & Fundador</p><p>971 864 143  / 956600346</p><p>ayuda@crehana.com</p>"},	  
       {"name": "CULQI", "size": 3416,"html":"<h2>CULQI</h2><p>Plataforma de Pagos que permite aceptar pagos con todas las tarjetas desde una  página web o aplicación móvil.</p><h2>Contacto</h2><p>Amparo Nalvarte / CEO</p><p>517 - 9805</p><p>unete@culqi.com</p>"},
-      {"name": "DevAc ademy", "size": 3416,"html":"<h2>DevAc ademy</h2><p>Servicios de desarrollo de software. Transforman ideas en productos dando servicios de desarrollo web y móvil. Trabajan de forma ágil, integrando la experiencia de  usuario y diseño, sin importar donde te encuentres.</p><h2>Contacto</h2><p>Lennon Shimokawa Miyashiro</p><p>997410535</p><p>Lennon Shimokawa Miyashiro</p>"},	  
+      {"name": "DevAc ademy", "size": 3416,"html":"<h2>DevAc ademy</h2><p>Servicios de desarrollo de software. Transforman ideas en productos dando servicios de desarrollo web y móvil. Trabajan de forma ágil, integrando la experiencia de  usuario y diseño, sin importar donde te encuentres.</p><h2>Contacto</h2><p>Lennon Shimokawa Miyashiro</p><p>997410535</p><p>lennon@devacademy.la</p>"},	  
       {"name": "Doktuz", "size": 3416,"html":"<h2>Doktuz</h2><p>Doktuz es un portal de salud en internet, que tiene como objetivo mejorar el acceso a la salud para todo el mundo y convertirse en el médico de cabecera de todas las personas.</p><h2>Contacto</h2><p>Abraham Abramovitz / CEO- Fundador</p><p>(01)441 4746/987 215 972</p><p>info@doktuz.com</p>"},	  
 	  {"name": "Go Ambu", "size": 3416,"html":"<h2>Go Ambu</h2><p>Plataforma que reduce el tiempo de atención de una emergencia. Aplicativo que te permite mandar una rápida alerta de emergencia mediante un botón de pánico. Asignación automática de ambulancias y mapeo de los centros médicos más cercanos. </p><h2>Contacto</h2><p>Alfredo Bedoya /CEO </p><p>991854517</p><p>abedoya@goambu.com</p>"},	  
       {"name": "Fit Big Data", "size": 3416,"html":"<h2>Fit Big Data</h2><p>Aplicaciones para smartphone y otros dispositivos con información procesada  y analizada de una inacabable biblioteca  dinámica de datos – big data- para la  toma de buenas decisiones, empresariales  y particulares.</p><h2>Contacto</h2><p>Gonzalo Sarmiento / CIF (Chief Innovation Officer)</p><p>01-2214777</p><p>gonzalo.sarmiento@fit-peru.com</p>"},
@@ -43,16 +41,16 @@
       {"name": "Grupo Wando", "size": 3416,"html":"<h2>Grupo Wando</h2><p>Empresa de tecnología, que trabaja bajo el modelo de startup creando productos  y servicios innovadores y brindando  consultoría a empresas.Productos: Call4Tenders: plataforma B2B orientada a PYMES para gestionar  licitaciones. RPM Wando: Esta aplicación, al  momento de hacer una llamada, consultará de forma automática el número #RPM asociado al número  movistar marcado. Cuentan con más de  30,000 instalaciones y una calificación  del 4.5 / 5 estrellas.</p><h2>Contacto</h2><p>Ali Lozano / Co fundador</p><p>986777714</p><p>jegusquiza90@gmail.com</p>"},	  
       {"name": "JOINNUS", "size": 3416,"html":"<h2>JOINNUS</h2><p>En Joinnus los usuarios podrán ver todos los eventos sucediendo en su  ciudad con la posibilidad de inscribirse o  comprar las entradas a los eventos de su preferencia.</p><h2>Contacto</h2><p>Carolina Botto / CEO</p><p>964773676</p><p>domingo@joinnus.com</p>"},
       {"name": "Karaoke Smart", "size": 3416,"html":"<h2>Karaoke Smart</h2><p>La aplicación que revoluciona el karaoke volviéndolo interactivo, competitivo y  social, en tu casa y desde tu celular.</p><h2>Contacto</h2><p>Carlos Montesinos / CEO</p><p>01-677-7501</p><p>hola@karaokesmart.co</p>"},	  
-      {"name": "MESA 24/7", "size": 3416,"html":"<h2>MESA 24/7</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"},	  
-      {"name": "Mobiticket", "size": 3416,"html":"<h2>Mobiticket</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"},
-	  {"name": "PICKAPP", "size": 3416,"html":"<h2>PICKAPP</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"},
-	  {"name": "Rocko Tools", "size": 3416,"html":"<h2>Rocko Tools</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"},
-	  {"name": "Suruna", "size": 3416,"html":"<h2>Suruna</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"},
-	  {"name": "Timov S.A.C.", "size": 3416,"html":"<h2>Timov S.A.C.</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"},
-	  {"name": "Turismoi", "size": 3416,"html":"<h2>Turismoi</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"},
-	  {"name": "Urbaner", "size": 3416,"html":"<h2>Urbaner</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"},
-	  {"name": "Vecinos360.com", "size": 3416,"html":"<h2>Vecinos360.com</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"},
-	  {"name": "VIP SOUL SAC", "size": 3416,"html":"<h2>VIP SOUL SAC</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"}
+      {"name": "MESA 24/7", "size": 3416,"html":"<h2>MESA 24/7</h2><p>MESA 24/7 es una solución que permite a comensales reservar una mesa online  en un restaurante Top de Lima, Cusco, Trujillo, y Chiclayo; y al mismo tiempo, permite a staurantes optimizar y  digitalizar el manejo de sus reservas,  incrementar el conocimiento de sus  comensales para aumentar su recurrencia, y obtener publicidad online.</p><h2>Contacto</h2><p>Pedro Callirgos / Fundador y CEO</p><p>01-2689582</p><p>contacto@mesa247.pe</p>"},	  
+      {"name": "Mobiticket", "size": 3416,"html":"<h2>Mobiticket</h2><p>Solución móvil que busca reducir el tiempo de espera hasta en un 95% para ser atendido en instituciones públicas y privadas.</p><h2>Contacto</h2><p>Jorge Scotto Wong / CEO</p><p>998820009</p><p>info@mobiticket.com</p>"},
+	  {"name": "PICKAPP", "size": 3416,"html":"<h2>PICKAPP</h2><p>Aplicación para realizar envíos. Además,  confirman las entregas on-site (foto de validación), trazabilidad de pedidos en vivo, disponibilidad las 24 horas, las mejores tarifas el mercado.</p><h2>Contacto</h2><p>Felix Ipamaqué / CEO</p><p>Las Oropéndolas 380, San Isidro</p><p>986080820</p>"},
+	  {"name": "Rocko Tools", "size": 3416,"html":"<h2>Rocko Tools</h2><p>Es un laboratorio de desarrollo de productos hardware educativos que  interactúan con el usuario y que al  mismo tiempo son amigables con el  ambiente. Una de las bases principales del  laboratorio es que cada parte o subsistema  es minuciosamente cuidado, analizado y correctamente interpretado por especialistas en las ramas de la Mecánica, Electrónica, Programación, Estadística y Física, permitiéndoles así generar resultados orientados a mejorar de manera radical las metodologías de aprendizaje de centros de studio de ciencias con productos sencillos pero altamente eficientes en su fin</p><h2>Contacto</h2><p>Daniel Macedo / Gerente General</p><p>979343257</p><p>jdaniel.macedo@gmail.com</p>"},
+	  {"name": "Suruna", "size": 3416,"html":"<h2>Suruna</h2><p>Convierte un sitio de video tradicional en un sitio como Netflix.</p><h2>Contacto</h2><p>Arturo Calle Flores / CEO</p><p>01-4492541</p><p>arturo.calle@gmail.com</p>"},
+	  {"name": "Timov S.A.C.", "size": 3416,"html":"<h2>Timov S.A.C.</h2><p>Timov es el medio que informa  sobre las novedades de innovación, tecnología y emprendimiento de alto impacto. Timov, inspirando el cambio.</p><h2>Contacto</h2><p>Alonso Mujica / Director de Timov</p><p>01-2190170</p><p>hola@timov.pe</p>"},
+	  {"name": "Turismoi", "size": 3416,"html":"<h2>Turismoi</h2><p>Red de marketplaces y soluciones de  software (SAS) en tours y actividades para Latam y España. Conectanal tour operador local con el viajero a través de herramientas digitales.</p><h2>Contacto</h2><p>Diego Arbulú / Cofundador</p><p>973968249</p><p>d.arbulu@turismoi.com</p>"},
+	  {"name": "Urbaner", "size": 3416,"html":"<h2>Urbaner</h2><p>Urbaner es una plataforma  que permite realizar envíos de documentos y paquetes, en menos de 90 minutos o del mismo día, en múltiples medios de transporte. Urbaner hace tus envíos de manera rápida, fácil y segura.</p><h2>Contacto</h2><p>Ivonne Quiñones / CEO</p><p>01-320 4369</p><p>info@urbaner.pe</p>"},
+	  {"name": "Vecinos360.com", "size": 3416,"html":"<h2>Vecinos360.com</h2><p>Vecinos360 es una herramienta web que propone llevar una gestión más transparente y eficiente de las comunidades, en la que el propietario de un inmueble pueda conservar el valor del mismo a través del tiempo. En esta plataforma el administrador podrá emitir recibos, generar cuotas, registrar los medidores de agua, entre muchas otras cosas más que le permitirán al vecino tener claridad, independencia y transparencia en lo que respecta a su propiedad. Asimismo el adminitrador contará con mejores herramientas para brindar un  servicio de calidad.</p><h2>Contacto</h2><p>Gonzalo Rosselló / Gerente General</p><p>01-6754979</p><p>sjabiles@unasolutions.com</p>"},
+	  {"name": "VIP SOUL SAC", "size": 3416,"html":"<h2>VIP SOUL SAC</h2><p>Es una empresa enfocada a brindar soluciones de ecommerce innovadoras para el sector retail de moda. Tienes actualmente 2 productos : OUTFIE(www.myoutfie.com) que ayuda a las mujeres de habla hispana a encontrar el outfit perfecto para cada ocasión de acuerdo a su tipo de cuerpo y presupuesto y la tienda online www.vip-soul.com que comercializa productos de moda y diseño de marcas exclusivas y diseñadores emergentes.</p><h2>Contacto</h2><p>Faviola Palomino - CEO</p><p>997933432</p><p>fpalomino10@gmail.com</p>"}
      ]
     }
    ]
@@ -65,30 +63,30 @@
      "name": "Financiamiento",
 	 "html":"<h2>Financiamiento</h2>",
      "children": [
-      {"name": "Andes Accelerator", "size": 3938, "html":"<h2>titulo</h2><p>Contenido</p>"},
-      {"name": "Angel Ventures Peru", "size": 3812, "html":"<h2>titulo</h2><p>Contenido</p>"},
-      {"name": "Endeavor Peru", "size": 6714, "html":"<h2>titulo</h2><p>Contenido</p>"},
-      {"name": "Invertir", "size": 3431},
-	  {"name": "Kapital Zocial S.A.", "size": 3431},
-	  {"name": "NESsT", "size": 3431},
-	  {"name": "Start Up Perú", "size": 3431},
-	  {"name": "UTEC Ventures", "size": 3431},
-	  {"name": "Waves", "size": 3431}, 
-	  {"name": "Wayra Perú", "size": 3431},
-	  {"name": "Ynnovadores.com", "size": 3431},
-	  {"name": "Yupiloo", "size": 3431} 	  
+      {"name": "Andes Accelerator", "size": 3938, "html":"<h2>Andes Accelerator</h2><p>Andes Accelerator es un una iniciativa de la Universidad de San Martín de Porres. Busca acelerar startups de base tecnológica apoyándolas en el proceso de creación, crecimiento y consolidación; brindándoles asesoría especializada, oficina, equipos, herramientas de tecnologías de información y acceso a financiamiento. El proceso de aceleración de Andes consiste en un programa de hasta 6 meses de duración que tiene como objetivo convertir las startups que participan en proyectos de éxito, probados e invertibles.</p><h2>Contacto</h2><p>Carlos Torres / Director Ejecutivo</p><p>(01) 4210185</p><p>Carlos@andesacelerator.com</p>"},
+      {"name": "Angel Ventures Peru", "size": 3812, "html":"<h2>Angel Ventures Peru</h2><p>Angel Ventures Peru (AVP) es una firma que busca enlazar emprendedores excepcionales con recursos inteligentes. AVP ofrece una propuesta integrada para potenciar emprendimientos dinámicos en etapa temprana, y desarrollar una Red de inversionistas comprometidos con la innovación.</p><h2>Contacto</h2><p>Guillermo de Vivanco / Managing Director ,  Luis Torres / Director</p><p>(01) 960433160</p><p>infoperu@engelventures.vc</p>"},
+      {"name": "Endeavor Peru", "size": 6714, "html":"<h2>Endeavor Peru</h2><p>Endeavor lidera el movimiento global que busca catalizar el crecimiento económico sostenible, a través de la SELECCIÓN, APOYO ESTRATÉGICO y ACELERACIÓN de Emprendedores de Alto Impacto del mundo. Endeavor ayuda a los emprendedores a crecer, derribando barreras y entregándoles las herramientas para que sean exitosos: mentoría, redes de contacto, apoyo estratégico, talento, habilidades, acceso a capital inteligente, e inspiración. De la mano de Endeavor, estos emprendedores generan sustentabilidad económica, crecimiento y empleos, convirtiéndose en modelos de rol, y colaboran a potenciar una cultura emprendedora que motiva a la gente a pensar en grande.</p><h2>Contacto</h2><p>Ana Sofia Valdivia / Directora Ejecutiva  ,  Joaquín de Aubeyzon / Gerente de Selección y Servicios al Emprendedor</p><p>(01) 4356264</p><p>info.peru@endeavor.org</p>"},
+      {"name": "Invertir", "size": 3431, "html":"<h2>Invertir</h2><p>El Grupo Invertir tiene cuatro unidades complementarias: Invertir Consultores, Invertir Comunicación y Asuntos Públicos, Invertir Estudios y el Instituto Invertir. El Instituto Invertir es la institución fundadora del Grupo. En sus primeros años, lanzó el programa EmprendeAhora con el apoyo del Center for International Private Enterprise (CIPE). Entre el 2011 y 2014 llevó a cabo el programa Peru Capital Network, con el apoyo del Fomin, el cual contribuyó con el ecosistema emprendedor del Perú. Se generó programas de capacitación a emprendedores, a través del programa Ignite, también en alianza con el BID Network de los Países Bajos. En el 2014, el Instituto Invertir amplió su misión a través de tres grandes ámbitos de acción: el desarrollo empresarial, el desarrollo rural y el desarrollo urbano. El programa EmprendeAhora continúa como el pilar de este componente.</p><h2>Contacto</h2><p>Daniel Córdova / Presidente Ejecutivo , Guido Valdivia / Vicepresidente Ejecutivo , Maria Cecilia Villegas / Directora Ejecutiva</p><p>(01) 7090800</p><p>contacto@invertir.pe</p>"},
+	  {"name": "Kapital Zocial S.A.", "size": 3431, "html":"<h2>Kapital Zocial S.A.</h2><p>Crowdfunding</p><h2>Contacto</h2><p>Javier Salinas</p><p>(01) 997215023</p><p>javier.salinas@kapitalzocial.com</p>"},
+	  {"name": "NESsT", "size": 3431, "html":"<h2>NESsT</h2><p>Organización internacional que opera en Perú desde el año 2007. Incuba e invierte en empresas de alto impacto social. Desde el 2007, NESsT Perú ha invertido más de US$ 1.5 millones en financiamiento y asistencia técnica, beneficiando a más de 40,500 personas de bajos ingresos.</p><h2>Contacto</h2><p>Monica Vasquez Del Solar / Director ,  Isabel Castillo / Gerente de Portafolio</p><p>(01) 2217594</p><p>peru@nesst.org</p>"},
+	  {"name": "Start Up Perú", "size": 3431, "html":"<h2>Start Up Perú</h2><p>Startup Perú es una iniciativa del Estado Peruano liderada por el Ministerio de la Producción, que tiene por objetivo promover el surgimiento y consolidación de nuevas empresas peruanas que ofrezcan productos y servicios innovadores, con alto contenido tecnológico, de proyección a mercados internacionales y que impliquen la generación de empleos de calidad. Consiste de un conjunto de concursos y líneas de financiamiento para emprendedores, empresas en edad temprana, e incubadoras. Startup Perú constituye también una plataforma de encuentro y colaboración para todos los actores de la comunidad Startup del país, y así también un punto de enlace con redes de colaboración internacional.</p><h2>Contacto</h2><p>Alejandro Bernaola / Director General de Innovación, Transferencia Tecnológica y Servicios Empresariales.   Sergio Rodriguez / Director de la Dirección de Innovación del Produce</p><p>(01) 6162222</p><p>info@start-up.pe</p>"},
+	  {"name": "UTEC Ventures", "size": 3431, "html":"<h2>UTEC Ventures</h2><p>UTEC Ventures es la aceleradora de negocios de la Universidad de Ingeniería y Tecnología (UTEC). Potencian startups con asesoría y conexiones, llevándolas a un siguiente nivel. UTEC promueve el talento orientado a dar soluciones reales a problemas reales a través de la innovación y la creatividad.</p><h2>Contacto</h2><p>Gonzalo Villarán / Director UTEC Ventures ,  Andrés Benavides / Coordinador en UTEC Ventures</p><p>(01) 2305000</p><p>abenavides@utec.edu.pe</p>"},
+	  {"name": "Waves", "size": 3431, "html":"<h2>Waves</h2><p>Aceleradora de negocios que invierte y acompaña a startups de alto impacto en América Latina. A cargo del City Incubator Program, red de incubadoras soportadas por municipalidades y gobiernos regionales en países emergentes.</p><h2>Contacto</h2><p>Alvaro Zarate / Founding Partner , Miguel Burriel / Founding Partner ,  Paul Bragiel / Founding Partner</p><p>(01) 988082145</p><p>info@waves.vc</p>"}, 
+	  {"name": "Wayra Perú", "size": 3431, "html":"<h2>Wayra Perú</h2><p>Es la aceleradora de startups digitales de Telefónica y ayuda a los mejores emprendedores a crecer y formar empresas de éxito. Su programa de aceleración ofrece lo necesario para llevar a las empresas a lo más alto. Financiamiento de hasta 50 mil dólares, un espacio de trabajo en su academia de Perú, acceso a una red global de partners de negocio, mentores y expertos, más la oportunidad de trabajar con los negocios de Telefónica en el mundo.</p><h2>Contacto</h2><p>Alexander Gómez / Country Manager</p><p>(01) 947996888</p><p>wayra@wayra.org</p>"},
+	  {"name": "Ynnovadores.com", "size": 3431, "html":"<h2>Ynnovadores.com</h2><p>Descubren, forman, difunden y conectan emprendedores ynnovadores con actores y personas que ayudan a acelerar negocios y emprendimientos sociales.</p><h2>Contacto</h2><p>Juan Alberto Flores / Director Ejecutivo</p><p>(01) 4964662</p><p>contacto@losynnovadores.com</p>"},
+	  {"name": "Yupiloo", "size": 3431, "html":"<h2>Yupiloo</h2><p>Plataforma peruana de Crowdfunding también conocido como Financiamiento Colectivo.</p><h2>Contacto</h2><p>Anllelo Carreazo / CEO</p><p>(01) 987517388</p><p>acarreazo@yupiloo.com</p>"} 	  
  ]
     },
     {
      "name": "Empresas",
 	 "html":"<h2>Empresas</h2>",
      "children": [
-      {"name": "Enfoca", "size": 3534},
-      {"name": "Summa", "size": 5731},
-      {"name": "Grupo Macro", "size": 7840},
-      {"name": "Estratégica", "size": 5914},
-      {"name": "Nexxus", "size": 3416},
-	  {"name": "Credicorp Capital", "size": 3416}
+      {"name": "Enfoca", "size": 3534,"html":"<h2>Enfoca</h2><p>Private Equity</p><h2>Contacto</h2><p>Jesus Zamora, Jorge Basadre</p><p>(511) 222 2090</p><p></p>"},
+      {"name": "Summa", "size": 5731,"html":"<h2>Summa</h2><p>Private Equity</p><h2>Contacto</h2><p></p><p></p><p></p>"},
+      {"name": "Grupo Macro", "size": 7840,"html":"<h2>Grupo Macr</h2><p>Private Equity</p><h2>Contacto</h2><p>Mateo Moreyra</p><p>(511) 203 9800</p><p>contacto@grupomacro.pe</p>"},
+      {"name": "Estratégica", "size": 5914,"html":"<h2>Estratégica</h2><p>Holding del Grupo Breca</p><h2>Contacto</h2><p>Jaime Araoz, Fernando Alegre</p><p>7062200</p><p></p>"},
+      {"name": "Nexxus", "size": 3416,"html":"<h2>Nexxus</h2><p>Holding Grupo Intercorp</p><h2>Contacto</h2><p></p><p></p><p></p>"},
+	  {"name": "Credicorp Capital", "size": 3416,"html":"<h2>Credicorp Capital</h2><p>Holding GRupo Romero</p><h2>Contacto</h2><p></p><p></p><p></p>"}
      ]
     }
    ]
@@ -97,47 +95,45 @@
    "name": "Instituciones de apoyo",
    "html":"<h2>Instituciones de apoyo</h2>",
    "children": [
-    {"name": "Asociación Hack Space Perú", "size": 5041},
-    {"name": "Asociación Peruana de CroWdfunding", "size": 5176},
-    {"name": "Cofide", "size": 4492},
-    {"name": "Concytec", "size": 5593},
-    {"name": "Fab Lab Perú", "size": 9201},
-    {"name": "Innóvate Perú", "size": 6975},
-    {"name": "Ministerio de la Producción", "size": 5116},
-    {"name": "Municipalidad de Miraflores", "size": 6006},
-	{"name": "Perú Emprende", "size": 6006},
-	{"name": "Perú Incuba", "size": 6006},
-	{"name": "Perú Tech Meetup", "size": 6006},
-	{"name": "Promperú", "size": 6006},
-	{"name": "Starscamp", "size": 6006},
-	{"name": "Startup Academy", "size": 6006},
-	{"name": "Uconecta", "size": 6006}
+    {"name": "Asociación Hack Space Perú", "size": 5041,"html":"<h2>Asociación Hack Space Perú</h2><p>La Asociación Hack Space Perú es una Asociación Civil Sin Fines de Lucro que se enfoca principalmente en el desarrollo de HackSpace Perú: su comunidad que viernes a viernes; en una actividad abierta, libre y gratuita; se amanece creando, investigando y compartiendo en base a la cultura del hacer.</p><h2>Contacto</h2><p>Alvaro Concha Uriol / Presidente</p><p>975406862</p><p>alvaro@hackspace.pe</p>"},
+    {"name": "Asociación Peruana de CroWdfunding", "size": 5176,"html":"<h2>Asociación Peruana de CroWdfunding</h2><p>La APCF promueve la actividad del crowdfunding en todas sus modalidades. Promueve las buenas prácticas y propuestas de política para su desarrollo actual y futuro.</p><h2>Contacto</h2><p>Javier Salinas / Presidente</p><p>997215023</p><p></p>"},
+    {"name": "Cofide", "size": 4492,"html":"<h2>Cofide</h2><p>COFIDE, es el Banco de Desarrollo del Perú y gestiona sus actividades sobre cuatro pilares estratégicos: El apoyo a la inversión productiva, a través del financiamiento en infraestructura y medio ambiente; el apoyo a la MYPE; apoyo al proceso de inclusión financiera y la búsqueda de la excelencia en la gestión. Como parte del proceso de apoyo a la MYPE, COFIDE también impulsa el surgimiento y la consolidación de emprendimientos dinámicos que ofrezcan productos y servicios innovadores, de alto impacto, de proyección a mercados internacionales y que impliquen la generación de empleos de calidad.</p><h2>Contacto</h2><p>Jorge Luis Ramos / Gerente General</p><p>(511) 6154000</p><p></p>"},
+    {"name": "Concytec", "size": 5593,"html":"<h2>Concytec</h2><p>El CONCYTEC, es la institución rectora del Sistema Nacional de Ciencia y Tecnología e Innovación Tecnológica, SINACYT, integrada por la Academia, los Institutos de Investigación del Estado, las organizaciones empresariales, las comunidades y la sociedad civil. </p><h2>Contacto</h2><p>Fabiola León-Velarde / Presidente</p><p>(511) 399-0030</p><p>comunicacion@concytec.gob.pe</p>"},
+    {"name": "Fab Lab Perú", "size": 9201,"html":"<h2>Fab Lab Perú</h2><p>Fab Lab son una Red mundial de laboratorios locales de fabricación digital, espacios abiertos para incentivar la creatividad e innovación tecnológica. Ofrecen talleres, cursos de diseño 3D, Rhino, etc. Diplomados dictados desde Center for Bits and Atoms (CB&A) del Massachusetts Institute of Technology (MIT). </p><h2>Contacto</h2><p>Benito Juárez Vélez / Presidente, Delia Barriga Ciudad / Directora Ejecutiva  </p><p>042154555/ 946037105</p><p>delia@fablablima.org</p>"},
+    {"name": "Innóvate Perú", "size": 6975,"html":"<h2>Innóvate Perú</h2><p>El Programa Nacional de Innovación para la Competitividad y Productividad (Innóvate Perú), es uno de los principales brazos ejecutores del Plan Nacional de Diversificación Productiva del Ministerio de la Producción. Innóvate Perú busca incrementar la productividad empresarial a través del fortalecimiento de los actores del ecosistema de la innovación (empresas, emprendedores y entidades de soporte) y facilitar la interrelación entre ellos.Innóvate Perú se plantea como objetivos específicos: i) incrementar la innovación en los procesos productivos empresariales; ii) impulsar el emprendimiento innovador; y, iii) facilitar la absorción y adaptación de tecnologías para las empresas.</p><h2>Contacto</h2><p>Alejandro Afuso Higa / Director Ejecutivo</p><p>(511) 640-4420</p><p>consultas@innovateperu.pe</p>"},
+    {"name": "Ministerio de la Producción", "size": 5116,"html":"<h2>Ministerio de la Producción</h2><p>El Ministerio tiene entre sus funciones diseñar, establecer, ejecutar y supervisar, en armonía con la política general y los planes de gobierno, políticas nacionales y sectoriales aplicables a los subsectores de pesquería y de MYPE e industria. En el subsector MYPE e Industria fomenta la iniciativa empresarial, la competitividad de la micro y pequeña empresa, la asociatividad y el cooperativismo, así como las actividades de industrialización, procesamiento y manufactura, velando por el aprovechamiento sostenible de los recursos naturales y la protección del ambiente.</p><h2>Contacto</h2><p>Piero Ghezzi Solís / Ministro</p><p>(511) 6162222</p><p>dvmype-i@produce.gob.pe</p>"},
+    {"name": "Municipalidad de Miraflores", "size": 6006,"html":"<h2>Municipalidad de Miraflores</h2><p>Fomenta una Cultura Emprendedora a Empresarial, Social y Cultural, con escolares, mediante el Programa IDEA BRILLANTE. Han implementado programas con jóvenes, personas con discapacidad y Adulto mayor, quienes además de participar en las capacitaciones de Gestión Empresarial, participan activamente en Ferias, organizadas por la Municipalidad y en otras a las cuales van como invitados através de Programas de Emprendimiento.</p><h2>Contacto</h2><p>Marlene Gonzales Bustamante / Coordinadora del Programa Emprende Miraflores , Antonio Herrera Cabanillas / Coordinador del Programa de Jòvenes</p><p>617 7379 / RPC 942112656</p><p>emprendemiraflores@miraflores. gob.pe</p>"},
+	{"name": "Perú Emprende", "size": 6006,"html":"<h2>Perú Emprende</h2><p>Es un colectivo que agrupa a más de 40 organizaciones que trabajan en torno al emprendimiento y a la innovación en el Perú, y está compuesto por incubadoras, aceleradoras, centros de investigación, inversionistas, gremios, asociaciones y comunidades de emprendedores. Creen en que la innovación y la colaboración son la base sobre la cual el ecosistema de emprendimiento peruano debe seguir fortaleciéndose y creciendo. </p><h2>Contacto</h2><p>Romina Díaz / Coordinadora</p><p>511 7090800 ext. 7781</p><p>romina.diaz@invertir.pe</p>"},
+	{"name": "Perú Incuba", "size": 6006,"html":"<h2>Perú Incuba</h2><p>Es una Asociación Civil sin fines de lucro integrada por 13 instituciones. Su misión es agrupar de manera gremial a las instituciones con incubadoras de empresas peruanas, fomentarlas y representarlas. Promueve y consolida el movimiento de incubación de empresas en el país. Promueve la creación de nuevas incubadoras de empresas y el fortalecimiento de las existentes. Promueve una regulación adecuada sobre la incubación de empresas en la normativa vigente.</p><h2>Contacto</h2><p>Julio Vela / Presidente</p><p>(01) 219-0100 - Anexo 2119</p><p>info@peruincuba.nete</p>"},
+	{"name": "Perú Tech Meetup", "size": 6006,"html":"<h2>Perú Tech Meetup</h2><p>Es una organización sin fines de lucro que busca discutir y demostrar nuevas tecnologías con las comunidades de desarrollo tecnológico y de Internet. En la comunidad de Perú Tech Meetup hay startups, inversionistas, emprendedores, geeks, hackers y apasionados del medio de tecnología, además de curiosos que buscan aprender y compartir en cada Meetup lo último en el desarrollo de las ciudades peruanas. </p><h2>Contacto</h2><p>Marcos Alarcón Ochoa / Director</p><p>958402374</p><p>marcos@perutechmeetup.com</p>"},
+	{"name": "Promperú", "size": 6006,"html":"<h2>Promperú</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"},
+	{"name": "Starscamp", "size": 6006,"html":"<h2>Starscamp</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"},
+	{"name": "Startup Academy", "size": 6006,"html":"<h2>Startup Academy</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"},
+	{"name": "Uconecta", "size": 6006,"html":"<h2>Uconecta</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"}
    ]
-  },  
+  }, 
   {
    "name": "Servicio y consultoria",
    "html":"<h2>Servicio y consultoria</h2>",
    "children": [
-    {"name": "Anankaie", "size": 5842},
-    {"name": "Atesoria producciones", "size": 5041},
-    {"name": "Comparabien", "size": 5593},
-    {"name": "Contrataciones y Consultoría srl", "size": 5534},
-    {"name": "Corporación enigma", "size": 9201},
-    {"name": "Cmv Consulting SAC", "size": 6975},
-    {"name": "Cursostotales", "size": 5116},
-    {"name": "Devos Inc SAC", "size": 6006},
-	{"name": "Efact", "size": 6006},
-    {"name": "Ingeniarse", "size": 9201},
-    {"name": "InvierteBien", "size": 6975},
-    {"name": "Never Alone Capital", "size": 5116},
-    {"name": "Perú Apps", "size": 6006},
-	{"name": "Perú Global projects PGP", "size": 6006},	
-    {"name": "Saxo PERU SAC", "size": 5116},
-    {"name": "Smartec", "size": 6006},
-	{"name": "Sportafolio", "size": 6006},	
-	{"name": "Themma", "size": 9201},
-    {"name": "Vemoer SAC", "size": 6975},
-    {"name": "Xcooly", "size": 5116}
+    {"name": "Anankaie", "size": 5842,"html":"<h2>Anankaie</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"},
+    {"name": "Atesoria producciones", "size": 5041,"html":"<h2>Atesoria producciones</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"},
+    {"name": "Comparabien", "size": 5593,"html":"<h2>Comparabien</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"},
+    {"name": "Contrataciones y Consultoría srl", "size": 5534,"html":"<h2>Contrataciones y Consultoría srl</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"},
+    {"name": "Cmv Consulting SAC", "size": 6975,"html":"<h2>Cmv Consulting SAC</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"},
+    {"name": "Cursostotales", "size": 5116,"html":"<h2>Cursostotales</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"},
+    {"name": "Devos Inc SAC", "size": 6006,"html":"<h2>Devos Inc SAC</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"},
+	{"name": "Efact", "size": 6006,"html":"<h2>Efact</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"},
+    {"name": "Ingeniarse", "size": 9201,"html":"<h2>Ingeniarse</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"},
+    {"name": "InvierteBien", "size": 6975,"html":"<h2>InvierteBien</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"},
+    {"name": "Never Alone Capital", "size": 5116,"html":"<h2>Never Alone Capital</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"},
+    {"name": "Perú Apps", "size": 6006,"html":"<h2>Perú Apps</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"},
+	{"name": "Perú Global projects PGP", "size": 6006,"html":"<h2>Perú Global projects PGP</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"},	
+    {"name": "Saxo PERU SAC", "size": 5116,"html":"<h2>Saxo PERU SAC</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"},
+    {"name": "Smartec", "size": 6006,"html":"<h2>Smartec</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"},
+	{"name": "Sportafolio", "size": 6006,"html":"<h2>Sportafolio</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"},	
+    {"name": "Vemoer SAC", "size": 6975,"html":"<h2>Vemoer SAC</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"},
+    {"name": "Xcooly", "size": 5116,"html":"<h2>Xcooly</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"}
    ]
   }
  ]
