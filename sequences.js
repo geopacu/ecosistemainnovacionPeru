@@ -38,15 +38,24 @@ d3.json("flare.json", function(error, root) {
 	.on("mouseover", mouseover);
 
   var text = g.append("text")
-    .attr("transform", function(d) { return "rotate(" + computeTextRotation(d) + ")"; })
-    .attr("x", function(d) { return y(d.y); })
+    .attr("transform", function(d) { 
+		if(d.name !== root.name) return "rotate(" + computeTextRotation(d) + ")"; 
+		else return 0;
+	})
+    .attr("x", function(d) {
+		if(d.name !== root.name) return y(d.y);
+		else return -70;
+	})
     .attr("dx", "6") // margin
     .attr("dy", ".35em") // vertical-align
 	.style("cursor", "pointer")
+	.style("text-aling", "justify")
 	.on("click", click)
     .text(function(d) { return d.name; });
 
   function click(d) {
+	//if(!d.children) return;
+	  
     // fade out all text elements
     text.transition().attr("opacity", 0);
 
@@ -58,11 +67,21 @@ d3.json("flare.json", function(error, root) {
           if (e.x >= d.x && e.x < (d.x + d.dx)) {
             // get a selection of the associated text element
             var arcText = d3.select(this.parentNode).select("text");
-            // fade in the text element and recalculate positions
-            arcText.transition().duration(750)
-              .attr("opacity", 1)
-              .attr("transform", function() { return "rotate(" + computeTextRotation(e) + ")" })
-              .attr("x", function(d) { return y(d.y); });
+			var nameArcText = arcText[0][0].textContent;			 
+			 if(d.name !== nameArcText){
+				 // fade in the text element and recalculate positions
+				arcText.transition().duration(750)
+				  .attr("opacity", 1)
+				  .attr("transform", function() { return "rotate(" + computeTextRotation(e) + ")"; })
+				  .attr("x", function(d2) { return y(d2.y); })
+				  .attr("dy", ".35em"); // vertical-align
+			 } else {
+				 arcText.transition().duration(750)
+				  .attr("opacity", 1)
+				  .attr("transform", function() { return "rotate(" + 0 + ")"; })
+				  .attr("x", (d.name !== root.name) ? "-50" : "-70")
+				  .attr("dy", (d.name !== root.name) ? "40" : ".35em");
+			 }
           }
       });
   }
