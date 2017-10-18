@@ -1,0 +1,144 @@
+﻿{
+ "name": "Ecosistema innovación",
+ "html":"<h2>Ecosistema de innovación del Perú</h2>",
+ "children": [
+  {
+   "name": "Emprendimiento",
+   "html":"<h2>Emprendimiento</h2>",
+   "children": [
+    {
+     "name": "Social",
+	 "html":"<h2>Social</h2>",
+     "children": [
+      {"name": "Asociación Kantaya", "size": 3938, "html":"<h2>Asociación Kantaya</h2><p>Kantaya, iluminar en Aymara, es una asociación sin fines de lucro que desde hace más de 10 años busca cambiar mentalidades a través de educación de calidad, fomentando la creatividad y los valores en niños en situación vulnerable. Actualmente 300 niños, entre 5 y 15 años de edad, asisten de lunes a sábado en las tardes (después del colegio) a los tres centros de alto impacto educativo ubicados en los asentamientos humanos Mi Perú y Pachacutec en Ventanilla, Callao.</p><h2>Contacto</h2><p>Fabiola Portocarrero / Fundadora Asociación Kantaya , Yessica Flores / Fundadora Asociación Kantaya</p><p>(01) 2610126</p><p>donacion@katayaperu.com</p>"},
+      {"name": "AYNI", "size": 3812, "html":"<h2>AYNI</h2><p>Está conformada por un equipo multidisciplinario de estudiantes y egresados de las facultades de Ingeniería, Arquitectura y Ciencias de la Universidad Nacional de Ingeniería de Perú. Tienen la convicción de contribuir en la solución del problema de la vivienda social y consecuentemente mejorar la calidad de vida de miles de personas.</p><h2>Contacto</h2><p>Jack Garay Arauzo / Project Manager</p><p>(01) 956310469</p><p>Contacto@proyectoayni.pe</p>"},
+      {"name": "Evea Ecofashion", "size": 3431, "html":"<h2>Evea Ecofashion</h2><p>Empresa social de moda sostenible. Desarrolla carteras de cuero vegetal con comunidades Amazónicas del Perú, que elaboran mantas de látex natural también conocido como cuero vegetal, con las premisas de conservación de bosques y el comercio justo.</p><h2>Contacto</h2><p>Cristian Gutierrez , Jorge Cajacuri , Celeste Moreno</p><p>(01) 966422031 - (01) 975515045</p><p>cristiangz@evea-ecofashion.com</p>"},
+	  {"name": "Las Traperas", "size": 3431, "html":"<h2>Las Traperas</h2><p>Compra vende o truequea las cosas que ya no usas dentro de una comunidad de consumo responsable.</p><h2>Contacto</h2><p>Paola Pioltelli / CEO ,  Mariano Crowe / CTO</p><p>(01) 999348797</p><p>paola@lastraperas.com</p>"},
+	  {"name": "Llama Pack", "size": 3431, "html":"<h2>Llama Pack</h2><p>El proyecto busca la inclusión social de comunidades alto-Andinas en extrema pobreza a los beneficios económicos que aporta el turismo, incorporando un elemento eco amigable que tienen pero no utilizan:  sus llamas. Desarrolla con las comunidades el servicio de Llama Trek demostrando que se puede trabajar con llamas en turismo y generar fuentes alternativas de ingreso familiar activando economías locales.</p><h2>Contacto</h2><p>Alejandra Arias Stella / Directora Fundadora</p><p>(01) 998003114</p><p>info@llamapackproject.com</p>"},
+	  {"name": "Matchcota", "size": 3431, "html":"<h2>Matchcota</h2><p>Plataforma web para facilitación de adopciones de mascotas abandonadas en el país.</p><h2>Contacto</h2><p>Pamela Navarrete (Coordinadora General),  Melina Suarez, (Coordinadora Marketing),  Víctor Rodríguez (Coordinador Voluntariado),  Santiago León (Coordinador Finanzas y Legalidad);  Carla Orrego (Coordinadora Adopciones) y Kevin Muñante (Coordinador PreAdopción).</p><p>(01) 991754686</p><p>matchcotaorg.peru@gmail.com</p>"},
+	  {"name": "Nutrishake", "size": 3431, "html":"<h2>Nutrishake</h2><p>Es una empresa social que brinda productos naturales y nutritivos a base de cereales andinos, y al mismo tiempo permite que las personas participen de la nutrición social en la que ayudan a mejorar la alimentación de los niños con desnutrición.</p><h2>Contacto</h2><p>Daniel Nuñez / Gerente General , Gina Gonzales / Gerente de Producción,  Gian Carlos Zegarra / Gerente de Finanzas,  Carlos Noceda / Gerente de Negocios</p><p>(01) 959307284</p><p>nutrishakeandino@gmail.com </p>"},
+	  {"name": "Persevera Inclusión", "size": 3431, "html":"<h2>Es una asociación sin fines de lucro conformado por un grupo de madres con hijos en edad escolar que luchan por su derecho a la inclusión educativa efectiva, que les permita el desarrollo máximo de su autonomía, independencia e inclusión social. Tiene como objetivos promover la educación inclusiva, en el sistema educativo asegurando un tratamiento no discriminatorio. Sensibilizar a la población y erradicar los mitos del autismo. Desempeñar un papel integrador, que permita reunir a todas las asociaciones que traten el tema del autismo a fin de organizar eventos conjuntos poniendo a disposición material práctico que permita ayudar en la educación inclusiva.</h2><p>Contenido</p><h2>Contacto</h2><p>Rosario Rojas Rodriguez / Directora</p><p>(01) 942355243</p><p>rrojas@perseverainclusion.org.pe</p>"},
+	  {"name": "PowerMundo Perú", "size": 3431, "html":"<h2>PowerMundo Perú</h2><p>PowerMundo es una empresa social que apoya a la gente a mejorar su vida y conservar la naturaleza. Conecta a las personas que no tienen acceso a la red eléctrica con productos sostenibles para satisfacer sus necesidades de energía y romper el ciclo de pobreza. Trabaja con socios en todo el mundo para traer energía solar y cocinas mejoradas al Perú.</p><h2>Contacto</h2><p>Vela Navarro / Representante</p><p>(01) 2496746 - (01) 945377802</p><p>info@powermundo.com</p>"} 
+     ]
+    },
+    {
+     "name": "Startups",
+	 "html":"<h2>Startups</h2>",
+     "children": [
+
+
+      {"name": "Accesol", "size": 3534,"html":"<h2>Accesol</h2><p>Es una startup que se encuentra en el programa de aceleración de UTEC Ventures. Su primer producto es el Tostador Intitec, un tostador para diferentes granos que es ecológico, usa energía solar; económico, es de bajo costo y mantenimiento simple; y social, porque abre la posibilidad de que sean los mismos agricultores quienes tuesten sus granos, permitiéndoles avanzar más en la cadena comercial.</p><h2>Contacto</h2><p>Juan Pablo Perez</p><p>989081465</p><p>jp.00perez@gmail.com</p>"},
+      {"name": "Agrobiotec", "size": 5731,"html":"<h2>PowerMundo</h2><p>Proyecto Empresarial de Productos y Servicios Agrobiológicos Innovadores. Agrobiotec Allpa busca ofrecer una alternativa para la nutrición, sanidad y desarrollo de los cultivos con valor agrícola y está enfocada en dos productos: Biofertilizantes a base de micorrizas y semillas nativas peletizadas con microorganismos bioactivos.</p><h2>Contacto</h2><p>Wendy Pérez / Socia fundadora</p><p>980665278</p><p>agrobiotecallpa@gmail.com</p>"},
+      {"name": "Akdemia", "size": 7840,"html":"<h2>Akdemia</h2><p>Es una plataforma tecnológica desarrollada específicamente para  optimizar el manejo de procesos  administrativos, gerenciales y de  comunicación de una o varias escuelas.Ofrece el servicio web y aplicación móvil  (app), dedicados a potenciar los procesos  de comunicativos y académicos en la  institución.</p><h2>Contacto</h2><p>Juan Andrés Lagrange / CEO, Valentina Delfino / COO</p><p>(+511) 999100733</p><p>jalagrange@akdemia.com</p>"},
+      {"name": "Avrtec SAC", "size": 3416,"html":"<h2>Avrtec SAC</h2><p>AVRTEC dispone de máquinas de grabado y corte para trabajar casi todo tipo de materiales. Corte, grabe y marque madera, metal, acrílico, cuero, piedra, papel y plástico entre muchos otros.</p><h2>Contacto</h2><p>Juan Córdova Yaranga / Gerente, Noelia Ilaquita Churata / Diseñadora</p><p>#964759185</p><p>administracion@avrtec.com.pe</p>"},
+      {"name": "Badega.com", "size": 3534,"html":"<h2>Badega.com</h2><p>Portal web de Comercio Electrónico enfocado en vender productos y servicios realizados por  Startup's y Pequeñas Empresas.</p><h2>Contacto</h2><p>Juan Pablo Barzola / Gerente General</p><p>969227296</p><p>servicioalcliente@badega.com</p>"},
+      {"name": "BioFuturo", "size": 5731,"html":"<h2>BioFuturo</h2><p>servicioalcliente@badega.com</p><h2>Contacto</h2><p>Cesar Loo, Científico Investigador / CEO de BioFab Inc</p><p>996838533</p><p>laboratorio@celulasmadre.com.pe</p>"},
+      {"name": "Crehana", "size": 3416,"html":"<h2>Crehana</h2><p>Crehana es una comunidad global educativa para creativos donde las  personas aprenden habilidades prácticas  en cursos cortos preparados por expertos.</p><h2>Contacto</h2><p>Diego Olcese / CEO & Fundador</p><p>971 864 143  / 956600346</p><p>ayuda@crehana.com</p>"},	  
+      {"name": "CULQI", "size": 3416,"html":"<h2>CULQI</h2><p>Plataforma de Pagos que permite aceptar pagos con todas las tarjetas desde una  página web o aplicación móvil.</p><h2>Contacto</h2><p>Amparo Nalvarte / CEO</p><p>517 - 9805</p><p>unete@culqi.com</p>"},
+      {"name": "DevAc ademy", "size": 3416,"html":"<h2>DevAc ademy</h2><p>Servicios de desarrollo de software. Transforman ideas en productos dando servicios de desarrollo web y móvil. Trabajan de forma ágil, integrando la experiencia de  usuario y diseño, sin importar donde te encuentres.</p><h2>Contacto</h2><p>Lennon Shimokawa Miyashiro</p><p>997410535</p><p>Lennon Shimokawa Miyashiro</p>"},	  
+      {"name": "Doktuz", "size": 3416,"html":"<h2>Doktuz</h2><p>Doktuz es un portal de salud en internet, que tiene como objetivo mejorar el acceso a la salud para todo el mundo y convertirse en el médico de cabecera de todas las personas.</p><h2>Contacto</h2><p>Abraham Abramovitz / CEO- Fundador</p><p>(01)441 4746/987 215 972</p><p>info@doktuz.com</p>"},	  
+	  {"name": "Go Ambu", "size": 3416,"html":"<h2>Go Ambu</h2><p>Plataforma que reduce el tiempo de atención de una emergencia. Aplicativo que te permite mandar una rápida alerta de emergencia mediante un botón de pánico. Asignación automática de ambulancias y mapeo de los centros médicos más cercanos. </p><h2>Contacto</h2><p>Alfredo Bedoya /CEO </p><p>991854517</p><p>abedoya@goambu.com</p>"},	  
+      {"name": "Fit Big Data", "size": 3416,"html":"<h2>Fit Big Data</h2><p>Aplicaciones para smartphone y otros dispositivos con información procesada  y analizada de una inacabable biblioteca  dinámica de datos – big data- para la  toma de buenas decisiones, empresariales  y particulares.</p><h2>Contacto</h2><p>Gonzalo Sarmiento / CIF (Chief Innovation Officer)</p><p>01-2214777</p><p>gonzalo.sarmiento@fit-peru.com</p>"},
+      {"name": "EcoEvol", "size": 3416,"html":"<h2>EcoEvol</h2><p>Solución tecnológica para reducir el consumo de combustible y el impacto medioambientaldel uso de motores a combustión.</p><h2>Contacto</h2><p>Rodrigo Coquis / Gerente General</p><p>992766455</p><p>gerencia@greentechperu.com</p>"},	  
+      {"name": "Grupo Wando", "size": 3416,"html":"<h2>Grupo Wando</h2><p>Empresa de tecnología, que trabaja bajo el modelo de startup creando productos  y servicios innovadores y brindando  consultoría a empresas.Productos: Call4Tenders: plataforma B2B orientada a PYMES para gestionar  licitaciones. RPM Wando: Esta aplicación, al  momento de hacer una llamada, consultará de forma automática el número #RPM asociado al número  movistar marcado. Cuentan con más de  30,000 instalaciones y una calificación  del 4.5 / 5 estrellas.</p><h2>Contacto</h2><p>Ali Lozano / Co fundador</p><p>986777714</p><p>jegusquiza90@gmail.com</p>"},	  
+      {"name": "JOINNUS", "size": 3416,"html":"<h2>JOINNUS</h2><p>En Joinnus los usuarios podrán ver todos los eventos sucediendo en su  ciudad con la posibilidad de inscribirse o  comprar las entradas a los eventos de su preferencia.</p><h2>Contacto</h2><p>Carolina Botto / CEO</p><p>964773676</p><p>domingo@joinnus.com</p>"},
+      {"name": "Karaoke Smart", "size": 3416,"html":"<h2>Karaoke Smart</h2><p>La aplicación que revoluciona el karaoke volviéndolo interactivo, competitivo y  social, en tu casa y desde tu celular.</p><h2>Contacto</h2><p>Carlos Montesinos / CEO</p><p>01-677-7501</p><p>hola@karaokesmart.co</p>"},	  
+      {"name": "MESA 24/7", "size": 3416,"html":"<h2>MESA 24/7</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"},	  
+      {"name": "Mobiticket", "size": 3416,"html":"<h2>Mobiticket</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"},
+	  {"name": "PICKAPP", "size": 3416,"html":"<h2>PICKAPP</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"},
+	  {"name": "Rocko Tools", "size": 3416,"html":"<h2>Rocko Tools</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"},
+	  {"name": "Suruna", "size": 3416,"html":"<h2>Suruna</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"},
+	  {"name": "Timov S.A.C.", "size": 3416,"html":"<h2>Timov S.A.C.</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"},
+	  {"name": "Turismoi", "size": 3416,"html":"<h2>Turismoi</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"},
+	  {"name": "Urbaner", "size": 3416,"html":"<h2>Urbaner</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"},
+	  {"name": "Vecinos360.com", "size": 3416,"html":"<h2>Vecinos360.com</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"},
+	  {"name": "VIP SOUL SAC", "size": 3416,"html":"<h2>VIP SOUL SAC</h2><p>Contenido</p><h2>Contacto</h2><p></p><p></p><p></p>"}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Inversión",
+   "html":"<h2>Inversión</h2>",
+   "children": [
+    {
+     "name": "Financiamiento",
+	 "html":"<h2>Financiamiento</h2>",
+     "children": [
+      {"name": "Andes Accelerator", "size": 3938, "html":"<h2>titulo</h2><p>Contenido</p>"},
+      {"name": "Angel Ventures Peru", "size": 3812, "html":"<h2>titulo</h2><p>Contenido</p>"},
+      {"name": "Endeavor Peru", "size": 6714, "html":"<h2>titulo</h2><p>Contenido</p>"},
+      {"name": "Invertir", "size": 3431},
+	  {"name": "Kapital Zocial S.A.", "size": 3431},
+	  {"name": "NESsT", "size": 3431},
+	  {"name": "Start Up Perú", "size": 3431},
+	  {"name": "UTEC Ventures", "size": 3431},
+	  {"name": "Waves", "size": 3431}, 
+	  {"name": "Wayra Perú", "size": 3431},
+	  {"name": "Ynnovadores.com", "size": 3431},
+	  {"name": "Yupiloo", "size": 3431} 	  
+ ]
+    },
+    {
+     "name": "Empresas",
+	 "html":"<h2>Empresas</h2>",
+     "children": [
+      {"name": "Enfoca", "size": 3534},
+      {"name": "Summa", "size": 5731},
+      {"name": "Grupo Macro", "size": 7840},
+      {"name": "Estratégica", "size": 5914},
+      {"name": "Nexxus", "size": 3416},
+	  {"name": "Credicorp Capital", "size": 3416}
+     ]
+    }
+   ]
+  },  
+  {
+   "name": "Instituciones de apoyo",
+   "html":"<h2>Instituciones de apoyo</h2>",
+   "children": [
+    {"name": "Asociación Hack Space Perú", "size": 5041},
+    {"name": "Asociación Peruana de CroWdfunding", "size": 5176},
+    {"name": "Cofide", "size": 4492},
+    {"name": "Concytec", "size": 5593},
+    {"name": "Fab Lab Perú", "size": 9201},
+    {"name": "Innóvate Perú", "size": 6975},
+    {"name": "Ministerio de la Producción", "size": 5116},
+    {"name": "Municipalidad de Miraflores", "size": 6006},
+	{"name": "Perú Emprende", "size": 6006},
+	{"name": "Perú Incuba", "size": 6006},
+	{"name": "Perú Tech Meetup", "size": 6006},
+	{"name": "Promperú", "size": 6006},
+	{"name": "Starscamp", "size": 6006},
+	{"name": "Startup Academy", "size": 6006},
+	{"name": "Uconecta", "size": 6006}
+   ]
+  },  
+  {
+   "name": "Servicio y consultoria",
+   "html":"<h2>Servicio y consultoria</h2>",
+   "children": [
+    {"name": "Anankaie", "size": 5842},
+    {"name": "Atesoria producciones", "size": 5041},
+    {"name": "Comparabien", "size": 5593},
+    {"name": "Contrataciones y Consultoría srl", "size": 5534},
+    {"name": "Corporación enigma", "size": 9201},
+    {"name": "Cmv Consulting SAC", "size": 6975},
+    {"name": "Cursostotales", "size": 5116},
+    {"name": "Devos Inc SAC", "size": 6006},
+	{"name": "Efact", "size": 6006},
+    {"name": "Ingeniarse", "size": 9201},
+    {"name": "InvierteBien", "size": 6975},
+    {"name": "Never Alone Capital", "size": 5116},
+    {"name": "Perú Apps", "size": 6006},
+	{"name": "Perú Global projects PGP", "size": 6006},	
+    {"name": "Saxo PERU SAC", "size": 5116},
+    {"name": "Smartec", "size": 6006},
+	{"name": "Sportafolio", "size": 6006},	
+	{"name": "Themma", "size": 9201},
+    {"name": "Vemoer SAC", "size": 6975},
+    {"name": "Xcooly", "size": 5116}
+   ]
+  }
+ ]
+}
