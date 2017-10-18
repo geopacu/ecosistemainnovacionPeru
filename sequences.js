@@ -32,14 +32,18 @@ d3.json("flare.json", function(error, root) {
 
   var path = g.append("path")
     .attr("d", arc)
+	.style("cursor", "pointer")
     .style("fill", function(d) { return color((d.children ? d : d.parent).name); })
-    .on("click", click);
+    .on("click", click)
+	.on("mouseover", mouseover);
 
   var text = g.append("text")
     .attr("transform", function(d) { return "rotate(" + computeTextRotation(d) + ")"; })
     .attr("x", function(d) { return y(d.y); })
     .attr("dx", "6") // margin
     .attr("dy", ".35em") // vertical-align
+	.style("cursor", "pointer")
+	.on("click", click)
     .text(function(d) { return d.name; });
 
   function click(d) {
@@ -57,12 +61,14 @@ d3.json("flare.json", function(error, root) {
             // fade in the text element and recalculate positions
             arcText.transition().duration(750)
               .attr("opacity", 1)
-			  .attr("onmouseover", "mostrarDetalle('" + e.html + "')")
-			  .attr("style", "cursor:pointer;text-align:justify;width:100px")
               .attr("transform", function() { return "rotate(" + computeTextRotation(e) + ")" })
               .attr("x", function(d) { return y(d.y); });
           }
       });
+  }
+  
+  function mouseover(d){
+	  mostrarDetalle(d.html);
   }
 });
 
